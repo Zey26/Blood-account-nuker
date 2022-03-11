@@ -1,0 +1,7 @@
+First you need to have python installed https://www.python.org/downloads/
+Start the setup .bat to install requirements
+Now lunch Blood-account-nuker.exe
+
+
+or if you want lunch it by python go on the folder pytho-source-code and on the path type     python main.py
+or lunch start.bat
